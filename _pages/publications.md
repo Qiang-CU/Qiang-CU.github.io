@@ -12,9 +12,7 @@ Most of my publications should be indexed in my [Google Scholar profile](https:/
 
 ### Graduae Research
 
-| <img src="/assets/images/aistats2022.png" width="400px" alt=""> | <font size="4">
-**Abstract**: This paper studies the performative prediction problem which optimizes a stochastic loss function with data distribution that depends on the decision variable. We consider a forgotful settings of performative prediction problem, where the update dynamics is controlled by a Markov chain. Besides, we show that the expected squared distance to the fixed point solution decreases as $O(1/k)$, where $k$ is the iteration number. Third, numerical experiments verify our findings.
-</font>
+| <img src="/assets/images/aistats2022.png" width="400px" alt=""> | This paper studies the performative prediction problem which optimizes a stochastic loss function with data distribution that depends on the decision variable. We consider a forgotful settings of performative prediction problem, where the update dynamics is controlled by a Markov chain. Besides, we show that the expected squared distance to the fixed point solution decreases as $O(1/k)$, where $k$ is the iteration number.  
 **Qiang Li**, Hoi-To Wai, State Dependent Performative Prediction with Stochastic Approximation, Society for Artificial Intelligence and Statistics (AIStat). [[preprint](https://proceedings.mlr.press/v151/li22c.html)] |
 
 | <img src="/assets/images/neurips2022.png" width="400px" alt=""> | **Qiang Li**, Chung-Yiu Tau, Hoi-To Wai. Multi-agent Performative Prediction with Greedy Deployment and Consensus Seeking Agents, 36th Conference on Neural Information Processing Systems (NeurIPS 2022). [[preprint](https://proceedings.neurips.cc/paper_files/paper/2022/file/fad7c708dda11f3e72cc1629bb130379-Paper-Conference.pdf)]|
