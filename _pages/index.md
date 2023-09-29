@@ -10,16 +10,20 @@ author_profile: true
 
 ## About
 
-I am currently a fourth-year PhD student in System Engineering and Engineering Mangement at the The Chinese University of Hong Kong, where I was supervised by [Prof. Hoi-To Wai.](https://www1.se.cuhk.edu.hk/~htwai/) Prior to this, I earned a B.S. in The Harbin Institute of Technology, China. 
+I am currently a fourth-year PhD student in System Engineering and Engineering Mangement at the The Chinese University of Hong Kong, where I was supervised by [Prof. Hoi-To Wai.](https://www1.se.cuhk.edu.hk/~htwai/) Prior to this, I earned a B.S. in the Harbin Institute of Technology, China. 
 
 ## Education
 
 - Ph.D in Operation Research, 2020-present
-  Department of System Engineering \& Engineering Management
+  
+  Department of System Engineering & Engineering Management
+
   The Chinese University of Hong Kong
 
-- B.E. in Information and Computing Science, 2016-2020
+- B.E. in Information and Computing Science, 2016-2020 
+  
   Department of Mathematics
+
   Harbin Institute of Technology
 
 
