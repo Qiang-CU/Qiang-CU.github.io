@@ -12,13 +12,11 @@ Most of my publications should be indexed in my [Google Scholar profile](https:/
 
 | <img src="/assets/images/aistats2022.png" width="400px" alt=""> | **Qiang Li**, Hoi-To Wai, State Dependent Performative Prediction with Stochastic Approximation, Society for Artificial Intelligence and Statistics (AIStat). [[preprint](https://proceedings.mlr.press/v151/li22c.html)] |
 
-| <img src="/assets/images/neurips2022.png" width="200px" alt="">  |
-**Qiang Li**, Chung-Yiu Tau, Hoi-To Wai
+| <img src="/assets/images/neurips2022.png" width="200px" alt=""> | **Qiang Li**, Chung-Yiu Tau, Hoi-To Wai
 Multi-agent Performative Prediction with Greedy Deployment and Consensus Seeking Agents, 36th Conference on Neural Information Processing Systems (NeurIPS 2022).
 [[preprint] (https://proceedings.neurips.cc/paper_files/paper/2022/file/fad7c708dda11f3e72cc1629bb130379-Paper-Conference.pdf)] |
 
-| <img src="/assets/images/cdc2022.png" width="200px" alt=""> |
-**Qiang Li**,  Hoi-To Wai
+| <img src="/assets/images/cdc2022.png" width="200px" alt=""> | **Qiang Li**,  Hoi-To Wai
 On the role of Data Homogeneity in Multi-Agent Non-convex Stochastic Optimization, 2022 IEEE 61st Conference on Decision and Control, (IEEE CDC 2022). [[preprint](https://arxiv.org/pdf/2208.13162.pdf)] |
 
 
