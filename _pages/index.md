@@ -14,16 +14,13 @@ I am currently a fourth-year PhD student in System Engineering and Engineering M
 
 ## Education
 
-- Ph.D in Operation Research, 2020-present
-  
-  Department of System Engineering & Engineering Management
-
+- Ph.D in Operation Research, 2020-present \
+  *Department of System Engineering & Engineering Management* \
   The Chinese University of Hong Kong
 
-- B.E. in Information and Computing Science, 2016-2020 
-  
-  Department of Mathematics
-
+- B.E. in Information and Computing Science, 2016-2020 \
+  *Department of Mathematics*
+  \
   Harbin Institute of Technology
 
 
