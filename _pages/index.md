@@ -6,40 +6,11 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/best.jpg" width="340px" alt="John Hawkins" align="right" />
+<!-- <img src="/assets/images/best.jpg" width="340px" alt="Qiang Li" align="right" /> -->
 
 # About
 
-I recently completed my Ph.D. in computational and applied mathematics at the [Oden Institute for
-Computational Engineering and Sciences](https://www.oden.utexas.edu/) in the The University
-of Texas at Austin, where I was supervised by [William H. Press](http://www.numerical.recipes/whp)
-and [Ilya J.  Finkelstein](http://www.finkelsteinlab.org). I am now starting a postdoctoral
-fellowship position with [Oliver Stegle](https://www.embl.de/research/units/genome_biology/stegle/)
-at the European Molecular Biology Laboratory ([EMBL](https://www.embl.de)) and the German Cancer
-Research Center ([DKFZ](https://www.dkfz.de), Deutsches Krebsforschungszentrum) in Heidelberg,
-Germany.
+I am 4-th year PhD student in System Engineering and Engineering Mangement at the The Chinese University of Hong Kong, where I was supervised by [Prof. Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai/) Previously I earned a B.S. in The Harbin Institute of Technology, China. 
 
-I was awarded the Computational Science, Engineering, and Mathematics Fellowship for my studies at
-the Oden Institute, where I obtained my Masters and Ph.D. degrees. I previously earned a B.S. in
-Mathematics, a B.S.E in Mechanical Engineering, and a B.A. in Humanities at Walla Walla University
-in Walla Walla, Washington.
+My research is centered around stochastic optimization, distributed optimization. Learn more details about my research [here](/research/).
 
-My research is centered around developing high-throughput methods and results in molecular and
-integrative biology.  The gold rush in molecular and integrative biology for exponentially improved
-insights and methods is in full swing, and I love being a part of it.  My specialty is using
-computational and mathematical techniques to extract insight from large data sets and design better
-experiments, and I have also done a small amount of bench work. My current research is in
-developing novel techniques for characterizing the CRISPR family of proteins, with the long-term
-goal of helping to make gene-editing techniques safe for clinical use. Along the way I also derived
-and designed state of the art indel-correcting DNA barcodes and performed one of the largest-scale
-phylogenetic and positive selection analyses of bats. For these projects I have used various
-mathematical and computational methods, including mathematical model development, Fourier methods,
-non-linear optimization, finite field linear algebra, machine learning, visualization, phylogenetic
-analysis, positive selection analysis, and algorithmic development in high-dimensional spaces.
-Learn more details about my research [here](/research/).
-
-When I'm not doing research, my favorite thing in the world is to go see the world. I love
-travelling, learning languages, and meeting people. Closer to home, nothing beats weekend BBQ's
-with friends in the back yard.  I also love listening to podcasts and audiobooks while going for
-walks. Shout out to 99 Percent Invisible, More Perfect by RadioLab, and the Harry Potter books as
-read by Stephen Fry.
