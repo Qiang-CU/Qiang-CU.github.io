@@ -12,8 +12,7 @@ Most of my publications should be indexed in my [Google Scholar profile](https:/
 
 ### Graduae Research
 
-| <img src="/assets/images/aistats2022.png" width="400px" alt=""> | This paper studies the performative prediction problem which optimizes a stochastic loss function with data distribution that depends on the decision variable. We consider a forgotful settings of performative prediction problem, where the update dynamics is controlled by a Markov chain. Besides, we show that the expected squared distance to the fixed point solution decreases as $O(1/k)$, where $k$ is the iteration number.  
-**Qiang Li**, Hoi-To Wai, State Dependent Performative Prediction with Stochastic Approximation, Society for Artificial Intelligence and Statistics (AIStat). [[preprint](https://proceedings.mlr.press/v151/li22c.html)] |
+| <img src="/assets/images/aistats2022.png" width="400px" alt=""> | **Qiang Li**, Hoi-To Wai, State Dependent Performative Prediction with Stochastic Approximation, Society for Artificial Intelligence and Statistics (AIStat). [[preprint](https://proceedings.mlr.press/v151/li22c.html)] |
 
 | <img src="/assets/images/neurips2022.png" width="400px" alt=""> | **Qiang Li**, Chung-Yiu Tau, Hoi-To Wai. Multi-agent Performative Prediction with Greedy Deployment and Consensus Seeking Agents, 36th Conference on Neural Information Processing Systems (NeurIPS 2022). [[preprint](https://proceedings.neurips.cc/paper_files/paper/2022/file/fad7c708dda11f3e72cc1629bb130379-Paper-Conference.pdf)]|
 
@@ -41,3 +40,4 @@ Most of my publications should be indexed in my [Google Scholar profile](https:/
 
 
 <!-- | <img src="/assets/images/cleanedmsas.png" width="400px" alt=""> | **Hawkins, J. A.**, Kaczmarek, M. E., Müller, M. A., Drosten, C., Press, W. H., & Sawyer, S. L. (2019). A metaanalysis of bat phylogenetics and positive selection based on genomes and transcriptomes from 18 species. Proceedings of the National Academy of Sciences, 116(23), 11351-11360. [[press release](https://www.oden.utexas.edu/about/news/573/)] [[doi](https://doi.org/10.1073/pnas.1814995116)] [[code](https://github.com/hawkjo/mixr)] | -->
+<!-- This paper studies the performative prediction problem which optimizes a stochastic loss function with data distribution that depends on the decision variable. We consider a forgotful settings of performative prediction problem, where the update dynamics is controlled by a Markov chain. Besides, we show that the expected squared distance to the fixed point solution decreases as $O(1/k)$, where $k$ is the iteration number.  -->
