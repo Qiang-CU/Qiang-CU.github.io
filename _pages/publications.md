@@ -20,12 +20,10 @@ Most of my publications should be indexed in my [Google Scholar profile](https:/
 
 ### Undergraduate Research
 
-| <img src="/assets/images/cnsns2019.png" width="400px" alt=""> | Yao XU, **Qiang Li**,  Wenxue Li. 
-Periodically intermittent discrete observation control for synchronization of fractional-order coupled systems, Communications in Nonlinear Science and Numerical Simulation 2019, (CNSNS 2019). [[preprint](https://www.sciencedirect.com/science/article/abs/pii/S1007570419300826)] |
+| <img src="/assets/images/cnsns2019.png" width="400px" alt=""> | Yao XU, **Qiang Li**,  Wenxue Li. Periodically intermittent discrete observation control for synchronization of fractional-order coupled systems, Communications in Nonlinear Science and Numerical Simulation 2019, (CNSNS 2019). [[preprint](https://www.sciencedirect.com/science/article/abs/pii/S1007570419300826)] |
 
 
-| <img src="/assets/images/chaos2018.png" width="400px" alt=""> | Yongbao WU, **Qiang Li**,  Wenxue Li. 
-Novel aperiodically intermittent stability criteria for Markovian switching stochastic delayed coupled systems, Chaos: An Interdisciplinary Journal of Nonlinear Science (Chaos 2018). [[preprint](https://pubs.aip.org/aip/cha/article-abstract/28/11/113117/569922/Novel-aperiodically-intermittent-stability?redirectedFrom=fulltext)] |
+| <img src="/assets/images/chaos2018.png" width="400px" alt=""> | Yongbao WU, **Qiang Li**,  Wenxue Li. Novel aperiodically intermittent stability criteria for Markovian switching stochastic delayed coupled systems, Chaos: An Interdisciplinary Journal of Nonlinear Science (Chaos 2018). [[preprint](https://pubs.aip.org/aip/cha/article-abstract/28/11/113117/569922/Novel-aperiodically-intermittent-stability?redirectedFrom=fulltext)] |
 
 
 ## Professional Service
