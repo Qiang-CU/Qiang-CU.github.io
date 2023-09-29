@@ -9,11 +9,11 @@ minimal_mistakes_skin    : "default" # "default", "air", "contrast", "dark", "di
 
 # Site Settings
 locale                   : "en"
-title                    : "John Hawkins"
+title                    : "Qiang Li"
 title_separator          : "-"
-name                     : "John Hawkins"
-description              : "John Hawkins's personal website"
-url                      : "https://hawkjo.github.io" # should not end with /
+name                     : "Qiang Li"
+description              : "Qiang Li's personal website"
+url                      : "https://qiang-cu.github.io" # should not end with /
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -79,11 +79,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "John Hawkins"
+  name             : "Qiang Li"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computational molecular biology, integrative biology, high-throughput DNA sequencing, high-dimensional analysis, machine learning, mathematical modeling, visualization"
-  location         : "Austin, Texas"
-  email            : "hawkjo@gmail.com"
+  bio              : "Stochastic Optimization, Machine Learning, and Multi-agent System"
+  location         : "Sha Tin, Hong Kong"
+  email            : "qiangli@link.cuhk.edu.hk"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,16 +91,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hawkjo"
+  github           : "qiang-cu"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "hawkjo" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : #"hawkjo" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
-  stackoverflow    : "3019508/hawkjo" # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  stackoverflow    : #"3019508/hawkjo" # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
