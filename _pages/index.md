@@ -23,9 +23,13 @@ I am currently a fourth-year PhD student in System Engineering and Engineering M
   \
   Harbin Institute of Technology
 
+## Honors & Awards
+- National Scholarship of HIT, 2019
+- Second Class Innovation Scholarship from the Ministry of Industry and Information Technology of China, 2019.
+
 
 ## Research Interests
-My research is centered around stochastic optimization, distributed optimization (multi-agent system) and theories in machine lerning area. More details about my research is [here](/research/).
+My research is centered around *stochastic optimization*, *distributed optimization (multi-agent system)* and *theories in machine lerning* area. More details about my research is [here](/research/).
 
 ## What's new?
 - [Sept, 2022] One paper is accepted by NeurIPS 2022.
