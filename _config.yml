@@ -83,7 +83,7 @@ author:
   # avatar           :  "/assets/images/qiang_avator.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Stochastic Optimization, Machine Learning Theory, and Multi-agent System"
   location         : "Sha Tin, Hong Kong"
-  email            : <a href="mailto:qiangli@link.cuhk.edu.hk">Send Email to Qiang Li</a>
+  email            : "qiangli@link.cuhk.edu.hk"
   uri              :
   bitbucket        :
   codepen          :
