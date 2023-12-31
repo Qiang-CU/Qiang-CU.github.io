@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Qiang Li"
-  avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/assets/images/qiang_avator.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Stochastic Optimization, Machine Learning Theory, and Multi-agent System"
   location         : "Sha Tin, Hong Kong"
   email            : "qiangli@link.cuhk.edu.hk"
