@@ -8,7 +8,7 @@ author_profile: true
 
 <img src="/assets/images/qiang_avator.jpg" width="300px" alt="Qiang Li" align="right" />
 
-### About
+## About
 
 - Ph.D. Candidate
 - Dept. of System Engineering & Engineering Management
@@ -40,4 +40,5 @@ I am currently a fourth-year PhD student in System Engineering and Engineering M
 My research is centered around *stochastic optimization*, *distributed optimization (multi-agent system)* and *theories in machine lerning* area. More details about my research is [here](/research/).
 
 ## Recent News
+- [May, 2024] One paper is accepted by ICML 2024.
 - [Sept, 2022] One paper is accepted by NeurIPS 2022.
