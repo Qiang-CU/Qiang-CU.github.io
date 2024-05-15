@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/qiang_avator.jpg" width="300px" alt="Qiang Li" align="right" />
+<img src="/assets/images/qiang_avator.jpeg" width="300px" alt="Qiang Li" align="right" />
 
 ## About
 
