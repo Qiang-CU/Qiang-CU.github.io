@@ -34,6 +34,7 @@ I am currently a fourth-year PhD student in System Engineering and Engineering M
 ## Honors & Awards
 - National Scholarship of HIT, 2019
 - Second Class Innovation Scholarship from the Ministry of Industry and Information Technology of China, 2019.
+- Outstanding graduates of Harbin Institute of Technology, 2020.
 
 
 ## :bulb: Research Interests 
