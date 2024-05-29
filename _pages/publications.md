@@ -11,14 +11,20 @@ Most of my publications should be indexed in my [Google Scholar profile](https:/
 ## Published Articles
 
 ### Graduae Research
+| <img src="/assets/images/privacyPP2024.jpg" width="400px" alt=""> | **Qiang Li**, Hoi-To Wai. Stochastic Optimization Schemes for Performative Prediction with Nonconvex Loss, 2024, Online. [[link](https://arxiv.org/abs/2405.17922)] |
 
-| <img src="/assets/images/aistats2022.png" width="400px" alt=""> | **Qiang Li**, Hoi-To Wai, State Dependent Performative Prediction with Stochastic Approximation, Society for Artificial Intelligence and Statistics (AISTATS). [[link](https://proceedings.mlr.press/v151/li22c.html)] |
 
-| <img src="/assets/images/neurips2022.png" width="400px" alt=""> | **Qiang Li**, Chung-Yiu Tau, Hoi-To Wai. Multi-agent Performative Prediction with Greedy Deployment and Consensus Seeking Agents, 36th Conference on Neural Information Processing Systems (NeurIPS 2022). [[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/fad7c708dda11f3e72cc1629bb130379-Paper-Conference.pdf)]|
+| <img src="/assets/images/dp2024.png" width="400px" alt=""> | **Qiang Li**, Michal Yemini, Hoi-To Wai. Clipped SGD Algorithms for Privacy Preserving Performative Prediction: Bias Amplification and Remedies, 2024, Online. [[link](https://arxiv.org/abs/2404.10995)] |
+
+
+| <img src="/assets/images/icml2024.png" width="400px" alt=""> | Liu Haitong, **Qiang Li**, Hoi-To Wai. Two-timescale Derivative Free Optimization for Performative Prediction with Markovian Data, 41st International Conference on Machine Learning (ICML 2024). [[link](https://openreview.net/pdf?id=Aj18fUB6Th)] |
 
 | <img src="/assets/images/cdc2022.png" width="400px" alt=""> | **Qiang Li**,  Hoi-To Wai. On the role of Data Homogeneity in Multi-Agent Non-convex Stochastic Optimization, 2022 IEEE 61st Conference on Decision and Control, (IEEE CDC 2022). [[link](https://arxiv.org/pdf/2208.13162.pdf)] |
 
-| <img src="/assets/images/icml2024.png" width="400px" alt=""> | Liu Haitong, **Qiang Li**, Hoi-To Wai. Two-timescale Derivative Free Optimization for Performative Prediction with Markovian Data, 41st International Conference on Machine Learning (ICML 2024). [[link](https://openreview.net/pdf?id=Aj18fUB6Th)] |
+| <img src="/assets/images/neurips2022.png" width="400px" alt=""> | **Qiang Li**, Chung-Yiu Tau, Hoi-To Wai. Multi-agent Performative Prediction with Greedy Deployment and Consensus Seeking Agents, 36th Conference on Neural Information Processing Systems (NeurIPS 2022). [[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/fad7c708dda11f3e72cc1629bb130379-Paper-Conference.pdf)]|
+
+| <img src="/assets/images/aistats2022.png" width="400px" alt=""> | **Qiang Li**, Hoi-To Wai, State Dependent Performative Prediction with Stochastic Approximation, Society for Artificial Intelligence and Statistics (AISTATS). [[link](https://proceedings.mlr.press/v151/li22c.html)] |
+
 
 
 ### Undergraduate Research
@@ -32,6 +38,7 @@ Most of my publications should be indexed in my [Google Scholar profile](https:/
 ## Professional Service
 
 - Conference Reviewer:
+  - NeurIPS 2024;
   - Neural Information Processing Systems (NeurIPS), 2021, 2022;
   - International Conference on Machine Learning (ICML) 2023.
 

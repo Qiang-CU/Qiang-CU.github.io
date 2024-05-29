@@ -27,8 +27,7 @@ I am currently a fourth-year PhD student in System Engineering and Engineering M
   The Chinese University of Hong Kong
 
 - B.E. in Information and Computing Science, 2016-2020 \
-  *Department of Mathematics*
-  \
+  *Department of Mathematics* \
   Harbin Institute of Technology
 
 ## Honors & Awards
