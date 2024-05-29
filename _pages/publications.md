@@ -11,6 +11,7 @@ Most of my publications should be indexed in my [Google Scholar profile](https:/
 ## Published Articles
 
 ### Graduae Research
+
 | <img src="/assets/images/privacyPP2024.jpg" width="400px" alt=""> | **Qiang Li**, Hoi-To Wai. Stochastic Optimization Schemes for Performative Prediction with Nonconvex Loss, 2024, Online. [[link](https://arxiv.org/abs/2405.17922)] |
 
 
