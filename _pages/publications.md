@@ -18,7 +18,7 @@ Most of my publications should be indexed in my [Google Scholar profile](https:/
 | <img src="/assets/images/dp2024.png" width="400px" alt=""> | **Qiang Li**, Michal Yemini, Hoi-To Wai. Clipped SGD Algorithms for Privacy Preserving Performative Prediction: Bias Amplification and Remedies, 2024, Online. [[link](https://arxiv.org/abs/2404.10995)] |
 
 
-| <img src="/assets/images/icml2024.png" width="400px" alt=""> | Liu Haitong, **Qiang Li**, Hoi-To Wai. Two-timescale Derivative Free Optimization for Performative Prediction with Markovian Data, 41st International Conference on Machine Learning (ICML 2024). [[link](https://openreview.net/pdf?id=Aj18fUB6Th)] |
+| <img src="/assets/images/icml2024.png" width="400px" alt=""> | Haitong Liu, **Qiang Li**, Hoi-To Wai. Two-timescale Derivative Free Optimization for Performative Prediction with Markovian Data, 41st International Conference on Machine Learning (ICML 2024). [[link](https://openreview.net/pdf?id=Aj18fUB6Th)] |
 
 | <img src="/assets/images/cdc2022.png" width="400px" alt=""> | **Qiang Li**,  Hoi-To Wai. On the role of Data Homogeneity in Multi-Agent Non-convex Stochastic Optimization, 2022 IEEE 61st Conference on Decision and Control, (IEEE CDC 2022). [[link](https://arxiv.org/pdf/2208.13162.pdf)] |
 
