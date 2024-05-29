@@ -12,7 +12,7 @@ Most of my publications should be indexed in my [Google Scholar profile](https:/
 
 ### Graduae Research
 
-| <img src="/assets/images/privacyPP2024.jpg" width="400px" alt=""> | **Qiang Li**, Hoi-To Wai. Stochastic Optimization Schemes for Performative Prediction with Nonconvex Loss, 2024, Online. [[link](https://arxiv.org/abs/2405.17922)] |
+| <img src="/assets/images/privacyPP2024.jpg" width="350px" alt=""> | **Qiang Li**, Hoi-To Wai. Stochastic Optimization Schemes for Performative Prediction with Nonconvex Loss, 2024, Online. [[link](https://arxiv.org/abs/2405.17922)] |
 
 
 | <img src="/assets/images/dp2024.png" width="400px" alt=""> | **Qiang Li**, Michal Yemini, Hoi-To Wai. Clipped SGD Algorithms for Privacy Preserving Performative Prediction: Bias Amplification and Remedies, 2024, Online. [[link](https://arxiv.org/abs/2404.10995)] |
