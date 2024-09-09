@@ -12,10 +12,13 @@ Most of my publications should be indexed in my [Google Scholar profile](https:/
 
 ### Graduae Research
 
-| <img src="/assets/images/privacyPP2024.jpg" width="350px" alt=""> | **Qiang Li**, Hoi-To Wai. Stochastic Optimization Schemes for Performative Prediction with Nonconvex Loss, 2024, Online. [[link](https://arxiv.org/abs/2405.17922)] |
+| <img src="/assets/images/tac-trantime.png" width="350px" alt=""> | **Qiang Li**, Hoi-To Wai. Tighter Analysis for Decentralized Stochastic Gradient Method: Impact of Data Homogeneity, 2024, Online. [[arXiv link](https://arxiv.org/abs/2409.04092)] | [[code](https://github.com/Qiang-CU/IEEE-TAC)]
 
 
-| <img src="/assets/images/dp2024.png" width="400px" alt=""> | **Qiang Li**, Michal Yemini, Hoi-To Wai. Clipped SGD Algorithms for Privacy Preserving Performative Prediction: Bias Amplification and Remedies, 2024, Online. [[link](https://arxiv.org/abs/2404.10995)] |
+| <img src="/assets/images/privacyPP2024.jpg" width="350px" alt=""> | **Qiang Li**, Hoi-To Wai. Stochastic Optimization Schemes for Performative Prediction with Nonconvex Loss, 2024, Online. [[arXiv link](https://arxiv.org/abs/2405.17922)] |
+
+
+| <img src="/assets/images/dp2024.png" width="400px" alt=""> | **Qiang Li**, Michal Yemini, Hoi-To Wai. Clipped SGD Algorithms for Privacy Preserving Performative Prediction: Bias Amplification and Remedies, 2024, Online. [[arXiv link](https://arxiv.org/abs/2404.10995)] |
 
 
 | <img src="/assets/images/icml2024.png" width="400px" alt=""> | Haitong Liu, **Qiang Li**, Hoi-To Wai. Two-timescale Derivative Free Optimization for Performative Prediction with Markovian Data, 41st International Conference on Machine Learning (ICML 2024). [[link](https://openreview.net/pdf?id=Aj18fUB6Th)] |
