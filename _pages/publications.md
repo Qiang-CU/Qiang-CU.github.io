@@ -18,7 +18,7 @@ Most of my publications should be indexed in my [Google Scholar profile](https:/
 | <img src="/assets/images/privacyPP2024.jpg" width="350px" alt=""> | **Qiang Li**, Hoi-To Wai. Stochastic Optimization Schemes for Performative Prediction with Nonconvex Loss, 2024, **NeurIPS 2024**. [[arXiv link](https://arxiv.org/abs/2405.17922)], [[code](https://github.com/Qiang-CU/nips2024-ncvxpp)] |
 
 
-| <img src="/assets/images/dp2024.png" width="450px" alt=""> | **Qiang Li**, Michal Yemini, Hoi-To Wai. Privacy-Efficacy Tradeoff of Clipped SGD with Decision-dependent Data, **ICML 2024 - Humans, Algorithmic Decision-Making and Society: Modeling Interactions and Impact Workshop**. [[link](https://icml.cc/virtual/2024/38255)] |
+| <img src="/assets/images/dp2024.png" width="600px" alt=""> | **Qiang Li**, Michal Yemini, Hoi-To Wai. Privacy-Efficacy Tradeoff of Clipped SGD with Decision-dependent Data, **ICML 2024 - Humans, Algorithmic Decision-Making and Society: Modeling Interactions and Impact Workshop**. [[link](https://icml.cc/virtual/2024/38255)] |
 
 
 | <img src="/assets/images/icml2024.png" width="400px" alt=""> | Haitong Liu, **Qiang Li**, Hoi-To Wai. Two-timescale Derivative Free Optimization for Performative Prediction with Markovian Data, 41st International Conference on Machine Learning (ICML 2024). [[link](https://openreview.net/pdf?id=Aj18fUB6Th)] |
