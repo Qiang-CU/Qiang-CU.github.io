@@ -31,9 +31,22 @@ Consider a hiring scenario. Job applicants might tailor their resumes or gain re
 
 **Project Overview**: This research sits at the intersection of machine learning and game theory. We focus on developing efficient first- and zeroth-order algorithms that help a learning agent make robust decisions in complex, dynamic settings. These settings may include environments that evolve over time, or scenarios involving adversarial actions that attempt to manipulate outcomes. By leveraging stochastic optimization techniques, our work aims to improve decision-making processes in these challenging, real-world situations.
 
+<style>
+.transparent-box {
+    background-color: rgba(255, 255, 255, 0.5); /* White with 50% transparency */
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.1); /* Optional light border */
+}
+</style>
+
+<div class="transparent-box">
+
 **Selected Publications:**
 
-| <img src="/assets/images/aistats2022.png" width="400px" alt=""> | **Qiang Li**, Hoi-To Wai, State Dependent Performative Prediction with Stochastic Approximation, Society for Artificial Intelligence and Statistics (AISTATS). [[link](https://proceedings.mlr.press/v151/li22c.html)] [[poster](/assets/pdf/Fancy_Posters_AISTAT.pdf)]|
+**Qiang Li**, Hoi-To Wai, *State Dependent Performative Prediction with Stochastic Approximation*, Society for Artificial Intelligence and Statistics (AISTATS). [[link](https://proceedings.mlr.press/v151/li22c.html)] [[poster](/assets/pdf/Fancy_Posters_AISTAT.pdf)]
+
+</div>
 
 
 <!-- 
