@@ -6,9 +6,61 @@ permalink: /research/
 author_profile: true
 ---
 
-Most of my publications should be indexed in my [Google Scholar profile](https://scholar.google.com/citations?user=NjVNiJ8AAAAJ&hl=en), and I will try to keep the most recent version of my publications here as well. 
+
+## Stochastic Convex/Nonconvex Optimization with Applications in Strategic Machine Learning
+
+**Goal**: To design efficient stochastic algorithms with strong theoretical guarantees, addressing various data-driven challenges.
+
+<style>
+.float-image {
+    float: right;
+    margin: 0 0 1em 1em; /* Adjust margins to control spacing around the image */
+    width: 350px; /* Set your preferred width */
+}
+</style>
+
+<img src="/assets/images/sc.png" class="float-image" alt="">
+
+**Background**: Traditional supervised learning has achieved impressive results across tasks such as classification, regression, and prediction. These methods typically assume that data is static: people who generate or provide data passively participate without modifying their behavior in response to the learning process.
+
+> **But what happens when human behavior interacts with learning outcomes?**
+
+Consider a hiring scenario. Job applicants might tailor their resumes or gain relevant experience based on a company’s job description. As the employer evaluates applicants, those who prepared strategically have an advantage, potentially improving their chances of being hired.
+
+**Performative Prediction** provides a new framework that takes into account the ways humans adapt in response to the learning process itself. This framework models human behavior as active inputs with agency, capturing more realistic behavior "in the wild."
+
+**Project Overview**: This research sits at the intersection of machine learning and game theory. We focus on developing efficient first- and zeroth-order algorithms that help a learning agent make robust decisions in complex, dynamic settings. These settings may include environments that evolve over time, or scenarios involving adversarial actions that attempt to manipulate outcomes. By leveraging stochastic optimization techniques, our work aims to improve decision-making processes in these challenging, real-world situations.
+
+
+<!-- 
+这是一个分隔符
+ -->
+
+## Large Scale (Multi-agent) Optimization
+
+**Goal**: To design realistic algorithms for optimal solution-seeking in multi-agent optimization systems.
+
+<style>
+.float-image {
+    float: right;
+    margin: 0 0 1em 1em; /* Adjust margins to control spacing around the image */
+    width: 300px; /* Set your preferred width */
+}
+</style>
+
+<img src="/assets/images/network.png" class="float-image" alt="Illustration of Multi-agent Optimization">
+
+**Background**: In fields like wireless sensor networks, multi-agent reinforcement learning, and federated learning, decentralized optimization algorithms play a crucial role and have attracted significant attention. Widely used methods include gradient descent-based algorithms and gossip-based communication mechanisms, such as Decentralized SGD, Push-Sum, Gradient Tracking algorithms, and NEXT algorithms, which are designed to handle (un)directed and time-varying graphs.
+
+> **How can we design decentralized algorithms for more complex environments, such as those with heterogeneous data (addressing out-of-distribution issues) or strategic data?**
+
+Motivated by these challenges, our work investigates ways to improve the performance of decentralized algorithms and adapt them to new problem setups, with rigorous convergence guarantees. This project aims to fully leverage computational resources from cloud centers, addressing key issues in distributed implementation and enhancing algorithmic efficiency for real-world applications.
+
+
 
 ## Published Articles
+
+Most of my publications should be indexed in my [Google Scholar profile](https://scholar.google.com/citations?user=NjVNiJ8AAAAJ&hl=en), and I will try to keep the most recent version of my publications here as well. 
 
 ### Graduae Research
 
