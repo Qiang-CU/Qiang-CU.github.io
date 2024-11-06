@@ -33,7 +33,7 @@ Consider a hiring scenario. Job applicants might tailor their resumes or gain re
 
 **Selected Publications:**
 
-| <img src="/assets/images/privacyPP2024.jpg" width="350px" alt=""> | **Qiang Li**, Hoi-To Wai. Stochastic Optimization Schemes for Performative Prediction with Nonconvex Loss, 2024, **NeurIPS 2024**. [[arXiv link](https://arxiv.org/abs/2405.17922)], [[code](https://github.com/Qiang-CU/nips2024-ncvxpp)] |
+| <img src="/assets/images/privacyPP2024.jpg" width="350px" alt=""> | **Qiang Li**, Hoi-To Wai. Stochastic Optimization Schemes for Performative Prediction with Nonconvex Loss, 2024, (<span style="color:blue; font-weight:bold">NeurIPS 2024</span>). [[arXiv link](https://arxiv.org/abs/2405.17922)], [[code](https://github.com/Qiang-CU/nips2024-ncvxpp)] |
 
 
 <!-- 
