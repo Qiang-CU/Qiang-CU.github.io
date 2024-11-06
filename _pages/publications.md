@@ -33,7 +33,7 @@ Consider a hiring scenario. Job applicants might tailor their resumes or gain re
 
 **Selected Publications:**
 
-| <img src="/assets/images/aistats2022.png" width="400px" alt=""> | **Qiang Li**, Hoi-To Wai, State Dependent Performative Prediction with Stochastic Approximation, Society for Artificial Intelligence and Statistics (AISTATS). [[link](https://proceedings.mlr.press/v151/li22c.html)] [[poster](/assets/pdf/Fancy_Posters_AISTAT.pdf)]|
+| <img src="/assets/images/privacyPP2024.jpg" width="350px" alt=""> | **Qiang Li**, Hoi-To Wai. Stochastic Optimization Schemes for Performative Prediction with Nonconvex Loss, 2024, **NeurIPS 2024**. [[arXiv link](https://arxiv.org/abs/2405.17922)], [[code](https://github.com/Qiang-CU/nips2024-ncvxpp)] |
 
 
 <!-- 
@@ -62,7 +62,7 @@ Motivated by these challenges, our work investigates ways to improve the perform
 
 **Selected Publications:**
 
-| <img src="/assets/images/neurips2022.png" width="400px" alt=""> | **Qiang Li**, Chung-Yiu Tau, Hoi-To Wai. Multi-agent Performative Prediction with Greedy Deployment and Consensus Seeking Agents, 36th Conference on Neural Information Processing Systems (NeurIPS 2022). [[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/fad7c708dda11f3e72cc1629bb130379-Paper-Conference.pdf)] [[slides](/assets/pdf/Slides_Neurips.pdf)] [[video](https://slideslive.com/38990568/multiagent-performative-prediction-with-greedy-deployment-and-consensus-seeking-agents?ref=search-presentations)] [[poster](/assets/pdf/Fancy_Posters_NeurIPS.pdf)]|
+| <img src="/assets/images/neurips2022.png" width="400px" alt=""> | **Qiang Li**, Chung-Yiu Tau, Hoi-To Wai. Multi-agent Performative Prediction with Greedy Deployment and Consensus Seeking Agents, 36th Conference on Neural Information Processing Systems (<span style="color:blue; font-weight:bold">NeurIPS 2022</span>). [[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/fad7c708dda11f3e72cc1629bb130379-Paper-Conference.pdf)] [[slides](/assets/pdf/Slides_Neurips.pdf)] [[video](https://slideslive.com/38990568/multiagent-performative-prediction-with-greedy-deployment-and-consensus-seeking-agents?ref=search-presentations)] [[poster](/assets/pdf/Fancy_Posters_NeurIPS.pdf)]|
 
 
 
