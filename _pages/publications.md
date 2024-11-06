@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-## Stochastic Convex/Nonconvex Optimization with Applications in Strategic Machine Learning
+## Topic 1: Stochastic Convex/Nonconvex Optimization with Applications in Strategic Machine Learning
 
 **Goal**: To design efficient stochastic algorithms with strong theoretical guarantees, addressing various data-driven challenges.
 
@@ -40,7 +40,7 @@ Consider a hiring scenario. Job applicants might tailor their resumes or gain re
 这是一个分隔符
  -->
 
-## Large Scale (Multi-agent) Optimization
+## Topic 2: Large Scale (Multi-agent) Optimization
 
 **Goal**: To design realistic algorithms for optimal solution-seeking in multi-agent optimization systems.
 
