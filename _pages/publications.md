@@ -32,7 +32,9 @@ Consider a hiring scenario. Job applicants might tailor their resumes or gain re
 **Project Overview**: This research sits at the intersection of machine learning and game theory. We focus on developing efficient first- and zeroth-order algorithms that help a learning agent make robust decisions in complex, dynamic settings. These settings may include environments that evolve over time, or scenarios involving adversarial actions that attempt to manipulate outcomes. By leveraging stochastic optimization techniques, our work aims to improve decision-making processes in these challenging, real-world situations.
 
 **Selected Publications:**
-| <img src="/assets/images/icml2024.png" width="400px" alt=""> | Haitong Liu, **Qiang Li**, Hoi-To Wai. Two-timescale Derivative Free Optimization for Performative Prediction with Markovian Data, 41st International Conference on Machine Learning (ICML 2024). [[link](https://openreview.net/pdf?id=Aj18fUB6Th)] [[poster](https://icml.cc/media/PosterPDFs/ICML%202024/34757.png?t=1720802990.2710993)]  |
+
+| <img src="/assets/images/aistats2022.png" width="400px" alt=""> | **Qiang Li**, Hoi-To Wai, State Dependent Performative Prediction with Stochastic Approximation, Society for Artificial Intelligence and Statistics (AISTATS). [[link](https://proceedings.mlr.press/v151/li22c.html)] [[poster](/assets/pdf/Fancy_Posters_AISTAT.pdf)]|
+
 
 <!-- 
 这是一个分隔符
@@ -59,7 +61,8 @@ Consider a hiring scenario. Job applicants might tailor their resumes or gain re
 Motivated by these challenges, our work investigates ways to improve the performance of decentralized algorithms and adapt them to new problem setups, with rigorous convergence guarantees. This project aims to fully leverage computational resources from cloud centers, addressing key issues in distributed implementation and enhancing algorithmic efficiency for real-world applications.
 
 **Selected Publications:**
-| <img src="/assets/images/neurips2022.png" width="400px" alt=""> | **Qiang Li**, Chung-Yiu Tau, Hoi-To Wai. Multi-agent Performative Prediction with Greedy Deployment and Consensus Seeking Agents, 36th Conference on Neural Information Processing Systems (NeurIPS 2022). [[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/fad7c708dda11f3e72cc1629bb130379-Paper-Conference.pdf)] [[slides](/assets/pdf/Slides_Neurips.pdf)] [[video](https://slideslive.com/38990568/multiagent-performative-prediction-with-greedy-deployment-and-consensus-seeking-agents?ref=search-presentations)] [[poster](/assets/pdf/Fancy_Posters_NeurIPS.pdf)]|
+
+**Qiang Li**, Chung-Yiu Tau, Hoi-To Wai. Multi-agent Performative Prediction with Greedy Deployment and Consensus Seeking Agents, 36th Conference on Neural Information Processing Systems (NeurIPS 2022). [[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/fad7c708dda11f3e72cc1629bb130379-Paper-Conference.pdf)] [[slides](/assets/pdf/Slides_Neurips.pdf)] [[video](https://slideslive.com/38990568/multiagent-performative-prediction-with-greedy-deployment-and-consensus-seeking-agents?ref=search-presentations)] [[poster](/assets/pdf/Fancy_Posters_NeurIPS.pdf)]
 
 
 
