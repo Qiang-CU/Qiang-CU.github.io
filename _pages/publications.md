@@ -76,17 +76,17 @@ Most of my publications should be indexed in my [Google Scholar profile](https:/
 | <img src="/assets/images/tac-trantime.png" width="350px" alt=""> | **Qiang Li**, Hoi-To Wai. Tighter Analysis for Decentralized Stochastic Gradient Method: Impact of Data Homogeneity, 2024, Online. [[arXiv link](https://arxiv.org/abs/2409.04092)], [[code](https://github.com/Qiang-CU/IEEE-TAC)]
 
 
-| <img src="/assets/images/privacyPP2024.jpg" width="350px" alt=""> | **Qiang Li**, Hoi-To Wai. Stochastic Optimization Schemes for Performative Prediction with Nonconvex Loss, 2024, **NeurIPS 2024**. [[arXiv link](https://arxiv.org/abs/2405.17922)], [[code](https://github.com/Qiang-CU/nips2024-ncvxpp)] |
+| <img src="/assets/images/privacyPP2024.jpg" width="350px" alt=""> | **Qiang Li**, Hoi-To Wai. Stochastic Optimization Schemes for Performative Prediction with Nonconvex Loss, 2024, (<span style="color:blue; font-weight:bold">NeurIPS 2024</span>). [[arXiv link](https://arxiv.org/abs/2405.17922)], [[code](https://github.com/Qiang-CU/nips2024-ncvxpp)] |
 
 
-| <img src="/assets/images/dp2024.png" width="600px" alt=""> | **Qiang Li**, Michal Yemini, Hoi-To Wai. Privacy-Efficacy Tradeoff of Clipped SGD with Decision-dependent Data, **ICML 2024** - Humans, Algorithmic Decision-Making and Society: Modeling Interactions and Impact Workshop. [[link](https://icml.cc/virtual/2024/38255)] [[slides](https://icml.cc/media/icml-2024/Slides/38255_IImlZvq.pdf)] [[poster](https://icml.cc/media/PosterPDFs/ICML%202024/38255.png?t=1720597917.7397864)] |
+| <img src="/assets/images/dp2024.png" width="600px" alt=""> | **Qiang Li**, Michal Yemini, Hoi-To Wai. Privacy-Efficacy Tradeoff of Clipped SGD with Decision-dependent Data, (<span style="color:blue; font-weight:bold">ICML 2024</span>) - Humans, Algorithmic Decision-Making and Society: Modeling Interactions and Impact Workshop. [[link](https://icml.cc/virtual/2024/38255)] [[slides](https://icml.cc/media/icml-2024/Slides/38255_IImlZvq.pdf)] [[poster](https://icml.cc/media/PosterPDFs/ICML%202024/38255.png?t=1720597917.7397864)] |
 
 
-| <img src="/assets/images/icml2024.png" width="400px" alt=""> | Haitong Liu, **Qiang Li**, Hoi-To Wai. Two-timescale Derivative Free Optimization for Performative Prediction with Markovian Data, 41st International Conference on Machine Learning (ICML 2024). [[link](https://openreview.net/pdf?id=Aj18fUB6Th)] [[poster](https://icml.cc/media/PosterPDFs/ICML%202024/34757.png?t=1720802990.2710993)]  |
+| <img src="/assets/images/icml2024.png" width="400px" alt=""> | Haitong Liu, **Qiang Li**, Hoi-To Wai. Two-timescale Derivative Free Optimization for Performative Prediction with Markovian Data, 41st International Conference on Machine Learning ((<span style="color:blue; font-weight:bold">ICML 2024</span>)). [[link](https://openreview.net/pdf?id=Aj18fUB6Th)] [[poster](https://icml.cc/media/PosterPDFs/ICML%202024/34757.png?t=1720802990.2710993)]  |
 
-| <img src="/assets/images/cdc2022.png" width="430px" alt=""> | **Qiang Li**,  Hoi-To Wai. On the role of Data Homogeneity in Multi-Agent Non-convex Stochastic Optimization, 2022 IEEE 61st Conference on Decision and Control, (IEEE CDC 2022). [[link](https://arxiv.org/pdf/2208.13162.pdf)] [[slides](/assets/pdf/Slides_CDC.pdf)]|
+| <img src="/assets/images/cdc2022.png" width="430px" alt=""> | **Qiang Li**,  Hoi-To Wai. On the role of Data Homogeneity in Multi-Agent Non-convex Stochastic Optimization, 2022 IEEE 61st Conference on Decision and Control, ((<span style="color:blue; font-weight:bold">IEEE CDC 2022</span>)). [[link](https://arxiv.org/pdf/2208.13162.pdf)] [[slides](/assets/pdf/Slides_CDC.pdf)]|
 
-| <img src="/assets/images/neurips2022.png" width="400px" alt=""> | **Qiang Li**, Chung-Yiu Tau, Hoi-To Wai. Multi-agent Performative Prediction with Greedy Deployment and Consensus Seeking Agents, 36th Conference on Neural Information Processing Systems (NeurIPS 2022). [[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/fad7c708dda11f3e72cc1629bb130379-Paper-Conference.pdf)] [[slides](/assets/pdf/Slides_Neurips.pdf)] [[video](https://slideslive.com/38990568/multiagent-performative-prediction-with-greedy-deployment-and-consensus-seeking-agents?ref=search-presentations)] [[poster](/assets/pdf/Fancy_Posters_NeurIPS.pdf)]|
+| <img src="/assets/images/neurips2022.png" width="400px" alt=""> | **Qiang Li**, Chung-Yiu Tau, Hoi-To Wai. Multi-agent Performative Prediction with Greedy Deployment and Consensus Seeking Agents, 36th Conference on Neural Information Processing Systems (**NeurIPS 2022**). [[link](https://proceedings.neurips.cc/paper_files/paper/2022/file/fad7c708dda11f3e72cc1629bb130379-Paper-Conference.pdf)] [[slides](/assets/pdf/Slides_Neurips.pdf)] [[video](https://slideslive.com/38990568/multiagent-performative-prediction-with-greedy-deployment-and-consensus-seeking-agents?ref=search-presentations)] [[poster](/assets/pdf/Fancy_Posters_NeurIPS.pdf)]|
 
 | <img src="/assets/images/aistats2022.png" width="400px" alt=""> | **Qiang Li**, Hoi-To Wai, State Dependent Performative Prediction with Stochastic Approximation, Society for Artificial Intelligence and Statistics (AISTATS). [[link](https://proceedings.mlr.press/v151/li22c.html)] [[poster](/assets/pdf/Fancy_Posters_AISTAT.pdf)]|
 
@@ -94,10 +94,10 @@ Most of my publications should be indexed in my [Google Scholar profile](https:/
 
 ### Undergraduate Research
 
-| <img src="/assets/images/cnsns2019.png" width="430px" alt=""> | Yao XU, **Qiang Li**,  Wenxue Li. Periodically intermittent discrete observation control for synchronization of fractional-order coupled systems, Communications in Nonlinear Science and Numerical Simulation 2019, (CNSNS 2019). [[link](https://www.sciencedirect.com/science/article/abs/pii/S1007570419300826)] |
+| <img src="/assets/images/cnsns2019.png" width="430px" alt=""> | Yao XU, **Qiang Li**,  Wenxue Li. Periodically intermittent discrete observation control for synchronization of fractional-order coupled systems, Communications in Nonlinear Science and Numerical Simulation 2019, (**CNSNS 2019**). [[link](https://www.sciencedirect.com/science/article/abs/pii/S1007570419300826)] |
 
 
-| <img src="/assets/images/chaos2018.png" width="430px" alt=""> | Yongbao WU, **Qiang Li**,  Wenxue Li. Novel aperiodically intermittent stability criteria for Markovian switching stochastic delayed coupled systems, Chaos: An Interdisciplinary Journal of Nonlinear Science (Chaos 2018). [[link](https://pubs.aip.org/aip/cha/article-abstract/28/11/113117/569922/Novel-aperiodically-intermittent-stability?redirectedFrom=fulltext)] |
+| <img src="/assets/images/chaos2018.png" width="430px" alt=""> | Yongbao WU, **Qiang Li**,  Wenxue Li. Novel aperiodically intermittent stability criteria for Markovian switching stochastic delayed coupled systems, Chaos: An Interdisciplinary Journal of Nonlinear Science (**Chaos 2018**). [[link](https://pubs.aip.org/aip/cha/article-abstract/28/11/113117/569922/Novel-aperiodically-intermittent-stability?redirectedFrom=fulltext)] |
 
 
 ## Professional Service
