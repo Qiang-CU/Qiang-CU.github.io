@@ -18,7 +18,7 @@ author_profile: true
 
 ## Bio
 
-I am currently a final-year PhD student in System Engineering and Engineering Mangement at the The Chinese University of Hong Kong, where I was supervised by [Prof. Hoi-To Wai.](https://www1.se.cuhk.edu.hk/~htwai/) Prior to CUHK, I earned a B.S. at the Harbin Institute of Technology, China. 
+I am currently a final-year PhD student in Dept. of System Engineering and Engineering Mangement In The Chinese University of Hong Kong, where I was supervised by [Prof. Hoi-To Wai.](https://www1.se.cuhk.edu.hk/~htwai/) Prior to CUHK, I earned a B.S. at the Harbin Institute of Technology, China. 
 
 ## Education
 
@@ -31,7 +31,8 @@ I am currently a final-year PhD student in System Engineering and Engineering Ma
   Harbin Institute of Technology
 
 ## Honors & Awards
-- National Scholarship of HIT, 2019
+- CUHK Postgraduate Studentship, 2020-2024.
+- National Scholarship of HIT, 2019.
 - Second Class Innovation Scholarship from the Ministry of Industry and Information Technology of China, 2019.
 - Outstanding graduates of Harbin Institute of Technology, 2020.
 
