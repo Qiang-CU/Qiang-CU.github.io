@@ -41,6 +41,7 @@ I am currently a final-year PhD student in Dept. of System Engineering and Engin
 My research is centered around *stochastic optimization*, *distributed optimization (multi-agent system)* and *theories in machine lerning* area. More details about my research is [here](/research/).
 
 ## Recent News
+- **[Feb 2025]**: My paper titled "[Tighter Analysis for Decentralized Stochastic Gradient Method: Impact of Data Homogeneity](https://arxiv.org/abs/2409.04092)" (with Prof. Wai) has been accepted to **IEEE Transactions on Automatic Control**.
 - **[Sept 2024]**: My paper titled "Stochastic Optimization Schemes for Performative Prediction with Nonconvex Loss" (with Prof. Wai) has been accepted to the **NeurIPS 2024** main conference.
 - **[June 2024]**: My paper titled "[Privacy-Efficacy Tradeoff of Clipped SGD with Decision-dependent Data](https://icml.cc/virtual/2024/38255)" (with Prof. Wai and Prof. Yemini) has been accepted to **ICML 2024**, [Humans, Algorithmic Decision-Making and Society: Modeling Interactions and Impact Workshop](https://humans-algs-society.github.io/).
 - **[May 2024]**: My paper titled "[Two-timescale Derivative Free Optimization for Performative Prediction with Markovian Data](https://icml.cc/virtual/2024/poster/34757)" (with Prof. Wai and Haitong Liu) has been accepted to the **ICML 2024** main conference.
