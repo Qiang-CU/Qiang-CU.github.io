@@ -73,7 +73,7 @@ Most of my publications should be indexed in my [Google Scholar profile](https:/
 
 ### Graduae Research
 
-| <img src="/assets/images/tac-trantime.png" width="350px" alt=""> | **Qiang Li**, Hoi-To Wai. Tighter Analysis for Decentralized Stochastic Gradient Method: Impact of Data Homogeneity, 2024, **IEEE Transactions on Automatic Control**. [[arXiv link](https://arxiv.org/abs/2409.04092)], [[code](https://github.com/Qiang-CU/IEEE-TAC)]
+| <img src="/assets/images/tac-trantime.png" width="350px" alt=""> | **Qiang Li**, Hoi-To Wai. Tighter Analysis for Decentralized Stochastic Gradient Method: Impact of Data Homogeneity, 2024, **IEEE Transactions on Automatic Control** (full paper). [[arXiv link](https://arxiv.org/abs/2409.04092)], [[code](https://github.com/Qiang-CU/IEEE-TAC)]
 
 
 | <img src="/assets/images/privacyPP2024.jpg" width="350px" alt=""> | **Qiang Li**, Hoi-To Wai. Stochastic Optimization Schemes for Performative Prediction with Nonconvex Loss, 2024, (<span style="color:blue; font-weight:bold">NeurIPS 2024</span>). [[arXiv link](https://arxiv.org/abs/2405.17922)], [[code](https://github.com/Qiang-CU/nips2024-ncvxpp)] |
