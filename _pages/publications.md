@@ -25,7 +25,7 @@ author_profile: true
 
 > **But what happens when human behavior interacts with learning outcomes?**
 
-Consider a hiring scenario. Job applicants might tailor their resumes or gain relevant experience based on a company’s job description. As the employer evaluates applicants, those who prepared strategically have an advantage, potentially improving their chances of being hired.
+Consider a hiring scenario. Job applicants might tailor their resumes or gain relevant experience based on a company's job description. As the employer evaluates applicants, those who prepared strategically have an advantage, potentially improving their chances of being hired.
 
 **Performative Prediction** provides a new framework that takes into account the ways humans adapt in response to the learning process itself. This framework models human behavior as active inputs with agency, capturing more realistic behavior "in the wild."
 
