@@ -42,7 +42,7 @@ My research is centered around *stochastic optimization*, *distributed optimizat
 
 ## Recent News
 
-- **[July 2025]**: - **[July 2025]**: I gave an invited talk at the [INFORMS International Meeting](https://meetings.informs.org/wordpress/2025international/) in Singapore on the nonconvex performative prediction problem.  [Slides](../assets/pdf/Informs2025_Intl.pdf) are available here.  Many thanks to [Prof. Wang Chi Cheung](https://cde.nus.edu.sg/isem/staff/cheung-wang-chi/) for the kind invitation. 
+- **[July 2025]**: I gave an invited talk at the [INFORMS International Meeting](https://meetings.informs.org/wordpress/2025international/) in Singapore on the nonconvex performative prediction problem.  [Slides](../assets/pdf/Informs2025_Intl.pdf) are available here.  Many thanks to [Prof. Wang Chi Cheung](https://cde.nus.edu.sg/isem/staff/cheung-wang-chi/) for the kind invitation. 
 - **[May 2025]**: My paper titled "[Clipped SGD Algorithms for Performative Preidction: Tight Bounds for Stochastic Bias and Remedies](https://arxiv.org/pdf/2404.10995)" (with Prof. Wai and Prof. Yemini) has been accepted to **ICML 2025 (main conference)** 🎉. [Paper Webpage](https://qiang-cu.github.io/icml2025-clippingsgd/)
 - **[Feb 2025]**: My paper titled "[Tighter Analysis for Decentralized Stochastic Gradient Method: Impact of Data Homogeneity](https://arxiv.org/abs/2409.04092)" (with Prof. Wai) has been accepted to **IEEE Transactions on Automatic Control** (full paper).
 - **[Sept 2024]**: My paper titled "Stochastic Optimization Schemes for Performative Prediction with Nonconvex Loss" (with Prof. Wai) has been accepted to the **NeurIPS 2024** main conference.
