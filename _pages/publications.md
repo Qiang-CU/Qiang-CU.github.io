@@ -73,6 +73,8 @@ Most of my publications should be indexed in my [Google Scholar profile](https:/
 
 ### Graduae Research
 
+| <img src="/assets/images/async.png" width="350px" alt=""> | **Qiang Li**, Michal Yemini, Hoi-To Wai. Asynchronous and Stochastic Distributed Resource Allocation, 2025, **IEEE CDC 2025**. [[arXiv link](https://arxiv.org/abs/2509.01172)].
+
 | <img src="/assets/images/tac-trantime.png" width="350px" alt=""> | **Qiang Li**, Hoi-To Wai. Tighter Analysis for Decentralized Stochastic Gradient Method: Impact of Data Homogeneity, 2024, **IEEE Transactions on Automatic Control** (full paper). [[arXiv link](https://arxiv.org/abs/2409.04092)], [[code](https://github.com/Qiang-CU/IEEE-TAC)]
 
 
